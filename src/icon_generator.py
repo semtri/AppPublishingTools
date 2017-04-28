@@ -2,7 +2,7 @@
 
 import os
 import sys
-import Image
+from PIL import Image
 
 if __name__ == "__main__":   
     source = sys.argv[1]
